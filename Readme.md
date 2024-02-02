@@ -12,5 +12,6 @@ Esta aplicación le permitirá a los conductores:
 Esta aplicación le permitirá a los pasajeros: 
 - Ver en tiempo real dónde están todos los "Rutas" actuales
 - Buscar por destino los "Rutas"
+- Buscar por tipo de "Ruta"
 - Pagar el pasaje por la aplicación (Aún en Beta)
 - Ver la ruta que transitará el "Ruta"
